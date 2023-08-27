@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabih0199" alt="sabih0199" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://about-sabih.netlify.app](https://about-sabih.netlify.app)
-
 - 📫 How to reach me **sabihali1k99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
